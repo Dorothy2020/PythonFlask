@@ -5,5 +5,5 @@ pip install flask-sqlalchemy<br>
 pip install sqlite<br>
 pip install flask
 
-How to run the project:<br>
+How to run the flask  project:<br>
 Use:python3 -m flask--app
