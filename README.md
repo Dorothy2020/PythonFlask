@@ -1,7 +1,7 @@
 # PythonFlask
 
 Installed the following libraries : 
-pip install flask-sqlalchemy
+pip install flask-sqlalchemy<br>
 pip install sqlite
 pip install flask
 
